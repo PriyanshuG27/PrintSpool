@@ -1,0 +1,23 @@
+# Campus Workload: TC-01 Starvation Test
+# Format: <arrival_sec> <job_id> <client_id> <role> <pages> <urgency> <duplex> [doc_name]
+0.0   1  prof_sharma   faculty     80  0  1  Lecture_Notes_Semester5.pdf
+1.0   2  student_01    student      1  0  0  Assignment_Cover.pdf
+2.0   3  student_02    student      1  0  0  Fee_Challan.pdf
+3.0   4  student_03    student      1  0  0  ID_Card_Copy.pdf
+4.0   5  student_04    student      1  0  0  Course_Registration.pdf
+5.0   6  student_05    student      1  0  0  Hostel_Clearance.pdf
+6.0   7  student_06    student      1  0  0  Lab_Manual_P1.pdf
+7.0   8  student_07    student      1  0  0  Gate_Pass.pdf
+8.0   9  student_08    student      1  0  0  Bonafide_Cert.pdf
+9.0   10 student_09    student      1  0  0  Scholarship_Form.pdf
+10.0  11 student_10    student      1  0  0  Medical_Prescription.pdf
+11.0  12 student_11    student      1  0  0  Library_Due.pdf
+12.0  13 student_12    student      1  0  0  Sports_Registration.pdf
+13.0  14 student_13    student      1  0  0  Bus_Pass.pdf
+14.0  15 student_14    student      1  0  0  Internship_Letter.pdf
+15.0  16 student_15    student      1  0  0  Transcript_Request.pdf
+16.0  17 student_16    student      1  0  0  Placement_Resume.pdf
+17.0  18 student_17    student      1  0  0  Project_Abstract.pdf
+18.0  19 student_18    student      1  0  0  Hackathon_Ticket.pdf
+19.0  20 student_19    student      1  0  0  Wifi_Registration.pdf
+20.0  21 student_20    student      1  0  0  Dean_Leave_Application.pdf

@@ -1,0 +1,16 @@
+# Memory-pressure workload: forces arena exhaustion, LRU eviction and swap-in
+# Format: <arrival_sec> <job_id> <client_id> <role> <pages> <urgency> <duplex> [doc_name]
+0.0   1  s01  student     16  0  0  Big_A.pdf
+0.0   2  s02  student     16  0  1  Big_B.pdf
+0.0   3  s03  student     16  0  0  Big_C.pdf
+0.0   4  s04  student     16  0  1  Big_D.pdf
+0.0   5  s05  student     16  0  0  Big_E.pdf
+0.0   6  s06  student     16  0  0  Big_F.pdf
+0.2   7  r01  researcher  22  0  1  Thesis.pdf
+0.2   8  r02  researcher  22  0  1  Thesis2.pdf
+0.4   9  f01  faculty     30  1  1  Exam_A.pdf
+0.4   10 f02  faculty     30  1  0  Exam_B.pdf
+0.6   11 f03  faculty     24  1  1  Exam_C.pdf
+0.6   12 s07  student      2  1  0  Urgent.pdf
+1.4   13 f04  faculty     20  1  0  Late_Urgent.pdf
+1.6   14 f05  faculty     20  1  1  Late_Urgent2.pdf

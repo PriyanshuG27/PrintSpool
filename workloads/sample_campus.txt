@@ -1,0 +1,12 @@
+# Sample Campus Daily Workload
+# Format: <arrival_sec> <job_id> <client_id> <role> <pages> <urgency> <duplex> [doc_name]
+0.0   1  prof_saxena    faculty     35  1  1  Midsem_Exam_Paper.pdf
+0.5   2  rahul_cs       student      3  0  0  OS_Assignment_4.pdf
+1.0   3  dr_verma       researcher  15  0  1  IEEE_Transaction_Draft.pdf
+1.5   4  sneha_ec       student      2  0  0  Resume_TCS.pdf
+2.0   5  aman_it        student      1  0  0  Fee_Receipt.pdf
+2.5   6  prof_gupta     faculty     50  0  1  Annual_Conference_Report.pdf
+3.0   7  priya_bt       student      5  1  0  Urgent_Lab_Report.pdf
+4.0   8  scholar_amit   researcher  22  0  1  Thesis_Chapter_3.pdf
+4.5   9  rohit_cs       student      4  0  0  Project_Proposal.pdf
+5.0   10 dr_sharma      faculty     18  0  1  Question_Bank.pdf
